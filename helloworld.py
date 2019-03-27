@@ -1,4 +1,5 @@
 import sys
 import os
 
-print("Hello...")
+x = input("Cómo te llamas?")
+print(f"Hello {x}")
